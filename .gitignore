@@ -4,3 +4,6 @@
 /ukastream/ukastream.vcxproj.user
 /ukastream/Debug
 /ukastream/x64
+Release/
+bin/
+obj/
